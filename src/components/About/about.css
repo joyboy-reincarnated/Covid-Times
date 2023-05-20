@@ -1,0 +1,9 @@
+.about{
+    width: 85vw;
+    /* height: 100vh; */
+    margin: 7rem auto;
+}
+.about >P{
+    width: 90%;
+    margin: 2rem 0;
+}
